@@ -11,4 +11,10 @@ Healthify is a web application for sunita,a 65+ years old woman to help her live
 # problem statement 
 How can you help Sunita Sharma (65+ years old) to live a healthier and better life?
 
+### Deployment link 
+- https://kratin-assignment.vercel.app/
+
+### Company
+- kratin software solutions pvt ltd
+
 
