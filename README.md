@@ -8,7 +8,7 @@ Healthify is a web application for sunita,a 65+ years old woman to help her live
 -   Yoga Suggestions
 -   BMI Calculator
 
-# problem statement 
+# Problem statement 
 How can you help Sunita Sharma (65+ years old) to live a healthier and better life?
 
 ### Deployment link 
